@@ -19,7 +19,7 @@ body{
   background:linear-gradient(to right, orangered 50%, whitesmoke 20% 40%);
 }
 .container {
-  position: relative;
+  position: absolute;
   left: 225px;
   top: 200px;
   font-size: 35px;
